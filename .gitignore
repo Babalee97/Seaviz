@@ -5,3 +5,4 @@ media
 seaviz/asgi.py
 seaviz/__init__.py
 seaviz/wsgi.py
+seaviz/setings.py
